@@ -21,15 +21,15 @@ C++
 Show Image
 🌱 I'm currently learning
 
-Advanced Flutter development
+Flutter development
 Kotlin for backend services
 JavaScript frameworks
 
 📫 How to reach me
 
 GitHub: @Zakihatta
-LinkedIn: Connect with me
-Email: your.email@example.com
+LinkedIn: www.linkedin.com/in/zaki-hatta-483109284
+Email: zakihattamg@gmail.com
 
 ⚡ Fun fact
 When I'm not coding, I enjoy exploring new recipes and cooking for friends and family, which inspired my DapurKita project!
